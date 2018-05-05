@@ -1,0 +1,78 @@
+.container{
+    border-color: black;
+}
+
+.fontP{
+    font-size: 120%;
+    color: black;
+}
+
+.button{
+    margin-left: 57%;
+}
+
+.area{
+    width: 70%;
+    margin-top: 4%;
+    padding-bottom: 3%;
+}
+
+.sinmargen{
+    margin: 0;
+    border: 0;
+}
+
+.jumbotron{
+    background: #47BBB8;
+    color: white;
+}
+
+#panel{
+    background: #ECECFB;
+    width:0%
+}
+
+.vistaEstudiantes{
+    background: #A0D0A8;
+    color: white;
+    border-radius: 2rem;
+    height: 6%;
+    font-size: 175%;
+    padding-left: 2%;
+}
+
+.vistaGuias{
+    background: #47BBB8;
+    color: white;
+    border-radius: 2rem;
+    height: 6%;
+    font-size: 175%;
+    padding-left: 2%;
+}
+
+.fontRaleway{
+    font-family: 'Raleway', sans-serif;
+}
+
+.temasIns{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.cellBorder{
+    border-style: solid;
+    border-color: #39ADAA;
+
+}
+
+.centrar{
+    width: 100%;
+    text-align: center;
+}
+
+
+.centrarBoton{
+    text-align: center;
+    margin-left: 46%;
+    margin-right: 45%;
+}
